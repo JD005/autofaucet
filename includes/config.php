@@ -3,9 +3,9 @@
 // Database Configuration
 
 $dbHost = "localhost";
-$dbUser = "";
-$dbPW = "";
-$dbName = "";
+$dbUser = "id3513164_jd";
+$dbPW = "123456";
+$dbName = "localhost";
 
 // Establish connection
 
