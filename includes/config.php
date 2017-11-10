@@ -2,7 +2,7 @@
 
 // Database Configuration
 
-$dbHost = "localhost";
+$dbHost = "https://autofaucet.herokuapp.com/";
 $dbUser = "id3513164_jd";
 $dbPW = "123456";
 $dbName = "localhost";
